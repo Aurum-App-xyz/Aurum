@@ -8,7 +8,7 @@ Also checkout directory for [AI Framework](https://github.com/JulioMCruz/Aurum/t
 
 ## Features
 
-- Voice-activated transactions through AI assistant (FRIEND)
+- Voice-activated transactions through AI assistant (OMI)
 - Real-time currency conversion (crypto to fiat and vice versa)
 - Multi-language support
 - Location-based currency detection
@@ -17,7 +17,7 @@ Also checkout directory for [AI Framework](https://github.com/JulioMCruz/Aurum/t
 
 ## How It Works
 
-1. User initiates a voice command to FRIEND AI assistant
+1. User initiates a voice command to OMI AI assistant
 2. Aurum prepares the transaction based on location and preferences
 3. User confirms the transaction details
 4. Aurum handles the crypto-to-fiat (or vice versa) conversion
@@ -25,7 +25,7 @@ Also checkout directory for [AI Framework](https://github.com/JulioMCruz/Aurum/t
 
 ## Tech Stack
 
-- AI: FRIEND voice assistant
+- AI: OMI voice assistant
 - Blockchain: Polygon, Rootstock (rBTC)
 - Wallet Integration: Dynamic, Coinbase
 - Currency Conversion: Circle, Unlimit
@@ -46,7 +46,7 @@ Also checkout directory for [AI Framework](https://github.com/JulioMCruz/Aurum/t
 
 - MVP: Basic voice-activated transactions with crypto-to-fiat conversion
 - Integration with more blockchain networks
-- Enhanced AI capabilities for FRIEND assistant
+- Enhanced AI capabilities for OMI assistant
 - Expanded merchant network
 - Mobile app release for iOS and Android
 
