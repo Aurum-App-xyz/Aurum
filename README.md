@@ -1,9 +1,9 @@
 <h1 align="center">Aurum</h1> <h4 align="center"> The payment experience that connects all worlds. <br><br> <a href="https://github.com/YourRepo/Aurum">GitHub</a> | <a href="https://aurum.com">Website</a> <br><br> <span style="font-weight: 300; font-style: italic;">Note: Everything in blue is a clickable link.</span> <br><br> <img src="assets/logo.jpeg" alt="Aurum Logo"> </h4>
 
 
-Also checkout directory for [Off Ramp Solution](https://github.com/JulioMCruz/Aurum/tree/main/API)(has its own readme)
+Also checkout directory for [Off Ramp Solution](https://github.com/Aurum-App-xyz/Aurum/tree/main/API)(has its own readme)
 
-Also checkout directory for [AI Framework](https://github.com/JulioMCruz/Aurum/tree/main/AiFramework)(has its own readme)
+Also checkout directory for [AI Framework](https://github.com/Aurum-App-xyz/Aurum/tree/main/AiFramework)(has its own readme)
 
 
 ## Features
@@ -57,8 +57,8 @@ Aurum prioritizes user safety and security. All transactions are final and irrev
 
 ## Related
 
-Also checkout directory for [Off Ramp Solution](https://github.com/JulioMCruz/Aurum/tree/main/API)(has its own readme)
+Also checkout directory for [Off Ramp Solution](https://github.com/Aurum-App-xyz/Aurum/tree/main/API)(has its own readme)
 
-Also checkout directory for [AI Framework](https://github.com/JulioMCruz/Aurum/tree/main/AiFramework)(has its own readme)
+Also checkout directory for [AI Framework](https://github.com/Aurum-App-xyz/Aurum/tree/main/AiFramework)(has its own readme)
 
 
