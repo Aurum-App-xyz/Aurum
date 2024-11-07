@@ -2,10 +2,6 @@
 <h1 align="center">API Integration</h1>
 
 <h4 align="center">
-  <a href="https://ethglobal.com/">ETHGlobal</a> | <a href="https://ethglobal.com/">Website</a>
-  <br><br>
-  <span style="font-weight: 300; font-style: italic;">Note: Everything in blue is a clickable link.</span>
-  <br>
   <span style="font-weight: 300; font-style: italic;">Please use Node.js's Latest Version</span>
   <br><br>
   <img src="assets/logo.jpeg" alt="logo">
@@ -150,4 +146,4 @@ The server will be running on `http://localhost:3001`.
 
 ---
 
-Built for ETHGlobal 2024 🎉
+Built for Aurum 2024 🎉
