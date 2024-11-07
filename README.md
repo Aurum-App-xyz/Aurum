@@ -32,7 +32,7 @@ Also checkout directory for [AI Framework](https://github.com/Aurum-App-xyz/Auru
 - Oracles: Chronicle
 - Indexing: The Graph
 - Multi-chain: LayerZero
-- Frontend: Flutter
+- Frontend: ReactJs,Flutter
 
 ## Getting Started
 
