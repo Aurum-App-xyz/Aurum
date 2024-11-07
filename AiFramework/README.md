@@ -14,7 +14,7 @@
 
 ## Environment Configuration (.env)
 
-- [OPENAI_API_KEY](https://github.com/JulioMCruz/Aurum/blob/85d6ea4fbbf264d2b47d59f663f7b9e6b60ff7af/AiFramework/api.py#L12): Required for integrating OpenAI with the Swarm framework.
+- [OPENAI_API_KEY](https://github.com/Aurum-App-xyz/Aurum/blob/85d6ea4fbbf264d2b47d59f663f7b9e6b60ff7af/AiFramework/api.py#L12): Required for integrating OpenAI with the Swarm framework.
 
 ---
 
